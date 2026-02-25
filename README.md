@@ -12,7 +12,7 @@
 
 ### About Me
 
-- **Data Science** student at **UC Berkeley** (Class of 2027)
+- **Data Science** student at **UC Berkeley**
 - **Research Fellow** at **Patronus AI**
 - **Student AI Researcher** at **Lawrence Berkeley National Laboratory**, focusing on multi-agent and multimodal systems
 - Co-authored [AutoAdv](https://github.com/nicksaban20/AutoAdv) (Presented at NeurIPS 2025)

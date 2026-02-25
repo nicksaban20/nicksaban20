@@ -77,7 +77,7 @@
       </p>
     </td>
     <td align="center" width="50%">
-      </td>
+    </td>
   </tr>
 </table>
 
@@ -112,7 +112,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicksaban20&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nicksaban20&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=nicksaban20&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
